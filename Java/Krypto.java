@@ -1,8 +1,7 @@
 package Java;
 
-public class  main{
+public class Krypto {
     public static void main(String[] args) {
         
     }
-    
 }
